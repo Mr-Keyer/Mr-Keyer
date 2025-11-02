@@ -56,7 +56,7 @@
 
 ### 📫 Me encontre por aí
 
-- GitHub: [KeyerOmnia](https://github.com/KeyerOmnia)  
+- GitHub: [Keyer-Omnia](https://github.com/Keyer-Omnia)  
 - YouTube: [KeyerH](https://www.youtube.com/@keyerh)  
 
 ---
@@ -72,5 +72,5 @@
 
 ### 📊 Estatísticas GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyerOmnia&layout=compact&theme=dark)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyerOmnia&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyer-Omnia&layout=compact&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyer-Omnia&show_icons=true&theme=dark)

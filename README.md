@@ -1,6 +1,6 @@
 # 💫 About Me
 👋 Olá!  
-Atualmente estudando programação. Apaixonado por ciência e tecnologia, trabalho e estudo com:  
+Atualmente estudando programação. Apaixonado por ciência e tecnologia, mexendo e estudo com:  
 💻 Desenvolvimento de software  
 🎮 Criação de jogos  
 🖌️ Animação 2D  

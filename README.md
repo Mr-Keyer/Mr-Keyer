@@ -8,8 +8,8 @@ Atualmente trabalhando com **Python e automação**, sem experiência profission
 ### Tecnologias em estudo:
 - Automação avançada em Python  
 - APIs e integração de dados  
-- Frameworks web (Flask/Django)  
-- Outras linguagens e ferramentas que apareçam no caminho 😎
+- Frameworks web (Flask/Django)
+- Java e Kotlin
 
 ## 🌐 Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mr_keyer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@Mr_Keye)

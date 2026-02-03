@@ -9,6 +9,7 @@ Atualmente trabalhando com **Python e automação**, sem experiência profission
 - Automação avançada em Python  
 - APIs e integração de dados  
 - Frameworks web (Flask/Django)
+- Node.Js
 - Java e Kotlin
 
 ## 🌐 Socials

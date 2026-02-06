@@ -1,7 +1,7 @@
 # Beleza?
 
 Sou um desenvolvedor em início de carreira que curte aprender na prática.  
-Uso **Python** como principal ferramenta para explorar **automação, backend e APIs**.
+Uso **Python** como principal ferramenta para explorar **automação, backend e APIs** e muito mais.
 
 ---
 

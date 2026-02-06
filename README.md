@@ -29,7 +29,7 @@ Tenho interesse em **automação, APIs REST e integração de dados**, utilizand
 - Automação avançada em Python  
 - Desenvolvimento de APIs REST  
 - Integração de dados e bancos de dados  
-- Frameworks web (Flask / Django)
+- Frameworks web (Django)
 
 ---
 

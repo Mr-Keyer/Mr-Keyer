@@ -1,8 +1,7 @@
 # Olá! 👋
 
-Sou um desenvolvedor em início de carreira com foco em **Python e desenvolvimento backend**.  
-Tenho interesse em **automação, APIs REST e integração de dados**, utilizando projetos práticos como principal forma de aprendizado e evolução contínua.
-
+Sou um desenvolvedor em início de carreira que curte aprender na prática.  
+Uso **Python** como principal ferramenta para explorar **automação, backend e APIs**.
 ---
 
 ## 💻 Tech Stack
@@ -30,6 +29,7 @@ Tenho interesse em **automação, APIs REST e integração de dados**, utilizand
 - Desenvolvimento de APIs REST  
 - Integração de dados e bancos de dados  
 - Frameworks web (Django)
+- Node.js para backend (Express.js)
 
 ---
 

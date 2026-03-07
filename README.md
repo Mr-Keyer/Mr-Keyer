@@ -8,7 +8,7 @@
 - CSS
 - JavaScript
 
-📚 #Tecnologias Front-End em estudo
+📚 ##Tecnologias Front-End em estudo
 
 - React
 - Angular

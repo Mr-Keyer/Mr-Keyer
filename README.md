@@ -2,16 +2,22 @@
 
 💻 Desenvolvedor Front-End com objetivo de me tornar um desenvolvedor Full Stack.
 
+---
+
 🚀 Tecnologias em uso
 
 - HTML
 - CSS
 - JavaScript
 
+---
+
 📚 Tecnologias Front-End em estudo
 
 - React
 - Angular
+
+---
 
 ⚙️ Tecnologias Back-End
 
@@ -19,11 +25,15 @@
    - Flask
    - Django
 
+---
+
 📚 Back-End em estudo
 
 - Node.js
    - Express.js
    - NestJS
+
+---
 
 🗄️ Banco de dados em uso e estudo
 
@@ -33,9 +43,13 @@
 - MySQL
 - MongoDB
 
+---
+
 📂 Projetos em destaque
 
-- 🌐 Blog de frutas(HTML e CSS puro) — https://mr-keyer.github.io/blog-frutas/
+- 🌐 Blog de Frutas (HTML e CSS puro) — "Acessar Projeto" (https://mr-keyer.github.io/blog-frutas/)
+
+---
 
 🧠 Outros interesses
 

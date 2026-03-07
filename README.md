@@ -1,4 +1,4 @@
-👋 #Olá
+👋 Olá
 
 💻 Desenvolvedor Front-End com objetivo de me tornar um desenvolvedor Full Stack.
 
@@ -8,7 +8,7 @@
 - CSS
 - JavaScript
 
-📚 ##Tecnologias Front-End em estudo
+📚 Tecnologias Front-End em estudo
 
 - React
 - Angular

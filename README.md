@@ -32,6 +32,10 @@
 - SQL Server
 - MySQL
 
+📂 Projetos em destaque
+
+- 🌐 Blog de frutas — (link do projeto)
+
 🧠 Outros interesses
 
 - C

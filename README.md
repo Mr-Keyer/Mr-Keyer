@@ -1,4 +1,4 @@
-# Oi
+👋 Olá
 
 💻 Desenvolvedor Front-End com objetivo de me tornar um desenvolvedor Full Stack.
 
@@ -39,15 +39,11 @@
 - C#
 - Game Development
 - Mobile Development
-
----
-
-## 🌍 Idiomas
-- **Português** — Profissional  
-- **Inglês** — Intermediário
-
----
-
-## 🌐 Socials
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mr_keyer)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Mr_Keye)
+- Inteligência Artificial
+- Ciência de Dados
+- Cibersegurança
+- Linux e Sistemas Operacionais
+- Automação e Scripts
+- Computação de Alto Desempenho
+- Robótica
+- Ciência e Tecnologia

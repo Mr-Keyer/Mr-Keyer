@@ -34,7 +34,7 @@
 
 📂 Projetos em destaque
 
-- 🌐 Blog de frutas — (link do projeto)
+- 🌐 Blog de frutas(HTML e CSS puro) — https://mr-keyer.github.io/blog-frutas/
 
 🧠 Outros interesses
 

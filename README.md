@@ -64,7 +64,7 @@
 # 📂 Projetos em destaque
 
 🌐 **Blog de Frutas (HTML e CSS puro)**  
-https://consolo-developer.github.io/blog-frutas/
+https://mr-keyer.github.io/blog-frutas/
 
 ---
 

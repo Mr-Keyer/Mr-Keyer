@@ -1,4 +1,4 @@
-# 👋 Olá
+
 
 🛠️ **Apresentação**  
 Sou alguém que gosta de **montar, desmontar, quebrar e consertar coisas**.  

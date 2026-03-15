@@ -1,6 +1,6 @@
 # 👋 Olá
 
-
+🛠️ **Apresentação**  
 Sou alguém que gosta de **montar, desmontar, quebrar e consertar coisas**.  
 Tenho curiosidade por tecnologia, sistemas e programação.  
 Também trabalho com **🌐 Web Development** e gosto de entender como as coisas funcionam por dentro.
@@ -44,6 +44,14 @@ Também trabalho com **🌐 Web Development** e gosto de entender como as coisas
 - 🖥️ Sistemas e baixo nível  
 - 🛠️ Linguagens de baixo nível (C, Assembly)  
 - 📱 Desenvolvimento Mobile
+
+---
+
+📂 **Projetos**
+
+- 🌐 [Blog de Frutas](https://mr-keyer.github.io/blog-frutas/) – HTML & CSS puro  
+
+
 
 ---
 

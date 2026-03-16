@@ -65,3 +65,9 @@ Também trabalho com **🌐 Web Development** e gosto de entender como as coisas
 
 🚀 **Objetivo**  
 Evoluir como desenvolvedor e construir projetos cada vez mais interessantes.
+
+## 📊 Linguagens mais usadas
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-keyer&layout=compact&theme=tokyonight"/>
+</p>

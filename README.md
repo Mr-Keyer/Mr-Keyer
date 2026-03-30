@@ -94,9 +94,9 @@ Apaixonado por entender sistemas a fundo — tanto para **construí-los** quanto
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-keyer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-keyer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://img.shields.io/badge/Contribuições-103-00ff41?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-00ff41?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foco-CyberSecurity-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 <p align="center">

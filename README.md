@@ -115,6 +115,4 @@ Apaixonado por entender sistemas a fundo — tanto para **construí-los** quanto
 
 **"Aprende a construir. Aprende a quebrar. Torna-te indispensável."**
 
-![Profile views](https://komarev.com/ghpvc/?username=mr-keyer&color=00ff41&style=flat-square)
-
 </div>

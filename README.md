@@ -94,12 +94,13 @@ Apaixonado por entender sistemas a fundo — tanto para **construí-los** quanto
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Keyer&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Keyer&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-keyer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-keyer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-keyer&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=mr-keyer&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

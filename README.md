@@ -47,7 +47,7 @@ $ whoami
 ## 🌐 Perfis
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/mrkeyer)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/mr-keyer)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d4329-4407-7048-8433-05de4cae7039)
 
 ---
 

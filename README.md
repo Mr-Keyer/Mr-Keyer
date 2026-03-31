@@ -1,15 +1,6 @@
-```
-██╗  ██╗███████╗██╗   ██╗███████╗██████╗
-██║ ██╔╝██╔════╝╚██╗ ██╔╝██╔════╝██╔══██╗
-█████╔╝ █████╗   ╚████╔╝ █████╗  ██████╔╝
-██╔═██╗ ██╔══╝    ╚██╔╝  ██╔══╝  ██╔══██╗
-██║  ██╗███████╗   ██║   ███████╗██║  ██║
-╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+%26+Software+Engineering+Student;Learning+to+break+%26+build+systems;CTF+Player+%7C+Web+Dev+%7C+Linux+Enthusiast;Always+curious%2C+always+learning.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Software+Engineering+Student;Learning+to+break+%26+build+systems;Always+curious%2C+always+learning.)
 
 </div>
 
@@ -18,64 +9,26 @@
 ## 🧠 Sobre mim
 ```bash
 $ whoami
-> Estudante de Cibersegurança & Engenharia de Software
-
-$ cat interests.txt
-> Como sistemas funcionam por dentro
-> Vulnerabilidades, exploits e defesa de aplicações
-> Automação, scripting e ferramentas CLI
-> Desenvolvimento web seguro
+> Estudante de cibersegurança e desenvolvimento de software.
+> Foco em segurança de aplicações web e scripting em Python/Bash.
+> Atualmente a resolver CTFs no TryHackMe e a aprender C
+> para entender exploração de memória.
 ```
-
-Apaixonado por entender sistemas a fundo — tanto para **construí-los** quanto para **testá-los**. Acredito que o melhor desenvolvedor é aquele que pensa como um atacante.
 
 ---
 
-## 💻 Linguagens
+## 💻 Stack
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" title="Bash"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
-
----
-
-## ⚙️ Stack & Tecnologias
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-</p>
-
----
-
-## 🔐 Ferramentas de Segurança
-
-| Ferramenta | Uso | Nível |
-|---|---|---|
-| 🗺️ **Nmap** | Reconhecimento de redes e port scanning | `Aprendendo` |
-| 🦈 **Wireshark** | Análise de tráfego e protocolos | `Aprendendo` |
-| 🔫 **Burp Suite** | Teste de segurança em aplicações web | `Aprendendo` |
-| 🐧 **Linux CLI** | Automação, scripting e administração | `Em progresso` |
-
----
-
-## 🎯 Roadmap de Aprendizado
-```
-[✓] HTML/CSS/JS — Fundamentos web
-[✓] Python — Scripting e automação
-[✓] Linux — CLI e administração básica
-[~] Redes — TCP/IP, DNS, HTTP/S
-[~] Web Security — OWASP Top 10
-[ ] CTF Challenges — Hack The Box / TryHackMe
-[ ] Engenharia Reversa — Ghidra / GDB
-[ ] Pentest Web — Avançado
-```
 
 ---
 
@@ -83,37 +36,27 @@ Apaixonado por entender sistemas a fundo — tanto para **construí-los** quanto
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| 🍎 **Blog de Frutas** | Blog estático com HTML/CSS | [Ver](https://mr-keyer.github.io/blog-frutas/) |
-| 💪 **Ginásio Renascimento** | Landing page para ginásio | [Ver](https://mr-keyer.github.io/ginasio-landing-page/) |
-| 🌱 **Horta do Povo** | Site de agricultura urbana | [Ver](https://mr-keyer.github.io/Horta-do-povo/) |
-
-> 🚧 Mais projetos a caminho — incluindo ferramentas de segurança e automação.
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribuições-103-00ff41?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Enthusiast-00ff41?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foco-CyberSecurity-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mr-keyer&theme=tokyonight&hide_border=true"/>
-</p>
+| 🔐 cipher-tool | Ferramenta de cifra de substituição em Python | `em breve` |
+| 📝 ctf-writeups | Soluções documentadas de CTFs | `em breve` |
+| 🍎 Blog de Frutas | Blog estático com HTML/CSS | [Ver](https://mr-keyer.github.io/blog-frutas/) |
+| 💪 Ginásio Renascimento | Landing page para ginásio | [Ver](https://mr-keyer.github.io/ginasio-landing-page/) |
+| 🌱 Horta do Povo | Site de agricultura urbana | [Ver](https://mr-keyer.github.io/Horta-do-povo/) |
 
 ---
 
-## 💡 Citação favorita
+## 🌐 Perfis
 
-> *"The quieter you become, the more you are able to hear."*
-> — Kali Linux
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/mr-keyer)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/mr-keyer)
 
 ---
 
 <div align="center">
 
-**"Aprende a construir. Aprende a quebrar. Torna-te indispensável."**
+<img src="https://streak-stats.demolab.com/?user=mr-keyer&theme=tokyonight&hide_border=true"/>
+
+> *"Know your enemy, know yourself."* — Sun Tzu
+
+![Profile views](https://komarev.com/ghpvc/?username=mr-keyer&color=00ff41&style=flat-square)
 
 </div>

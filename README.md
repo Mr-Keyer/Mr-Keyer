@@ -9,25 +9,33 @@
 ## 🧠 Sobre mim
 ```bash
 $ whoami
-> Estudante de cibersegurança e desenvolvimento de software.
-> Foco em segurança de aplicações web e scripting em Python/Bash.
-> Atualmente a resolver CTFs no TryHackMe e a aprender C
-> para entender exploração de memória.
+> Software Engineering & Cybersecurity Student
+> Focused on secure development, scripting and ethical hacking
+> Currently learning C to understand memory exploitation
+> Open to remote collaborations and opportunities
 ```
+
+---
+
+## 🌐 Perfis
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Mr--Keyer-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/mrkeyer)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Mr--Keyer-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d4329-4407-7048-8433-05de4cae7039)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=flat-square&logo=youtube)](https://youtube.com/@mr-keyer)
 
 ---
 
 ## 💻 Stack
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
 ---
@@ -38,16 +46,10 @@ $ whoami
 |---|---|---|
 | 🔐 cipher-tool | Ferramenta de cifra de substituição em Python | `em breve` |
 | 📝 ctf-writeups | Soluções documentadas de CTFs | `em breve` |
+| 📚 study-notes | Anotações técnicas de estudo | [Ver](https://github.com/Mr-Keyer/study-notes) |
 | 🍎 Blog de Frutas | Blog estático com HTML/CSS | [Ver](https://mr-keyer.github.io/blog-frutas/) |
 | 💪 Ginásio Renascimento | Landing page para ginásio | [Ver](https://mr-keyer.github.io/ginasio-landing-page/) |
 | 🌱 Horta do Povo | Site de agricultura urbana | [Ver](https://mr-keyer.github.io/Horta-do-povo/) |
-
----
-
-## 🌐 Perfis
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/mrkeyer)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d4329-4407-7048-8433-05de4cae7039)
 
 ---
 
@@ -55,7 +57,11 @@ $ whoami
 
 <img src="https://streak-stats.demolab.com/?user=mr-keyer&theme=tokyonight&hide_border=true"/>
 
+<br/>
+
 > *"Know your enemy, know yourself."* — Sun Tzu
+
+<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mr-keyer&color=00ff41&style=flat-square)
 

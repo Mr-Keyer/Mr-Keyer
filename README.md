@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,bash,python,js,linux,html,asm, css,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,bash,python,js,linux,html, css,git&theme=dark"/>
 
 <br/><br/>
 

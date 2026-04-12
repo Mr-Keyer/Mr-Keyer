@@ -1,12 +1,3 @@
-<div align="center">
-
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Software+Engineering+Student;Learning+to+break+%26+build+systems;Always+curious%2C+always+learning.)
-
-
-
-</div>
 
 ---
 
@@ -26,6 +17,12 @@ $ whoami
 
 ---
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,bash,python,js,linux,html,css,git&theme=dark"/>
+
+<br/>
+
 [
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Mr--Keyer-red?style=flat-square&logo=tryhackme)
@@ -37,6 +34,7 @@ $ whoami
 
 ](https://profile.hackthebox.com/profile/019d4329-4407-7048-8433-05de4cae7039)
 
+</div>
 ---
 
 <div align="center">

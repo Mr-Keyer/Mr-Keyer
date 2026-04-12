@@ -1,25 +1,18 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=c,bash,python,js,linux,html, css,git&theme=dark"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="250"/>
 
 <br/><br/>
 
-[
+<img src="https://skillicons.dev/icons?i=c,bash,python,js,linux,html,css,git&theme=dark"/>
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Mr--Keyer-red?style=flat-square&logo=tryhackme)
+<br/><br/>
 
-](https://tryhackme.com/p/mrkeyer)
-[
+<a href="https://tryhackme.com/p/mrkeyer"><img src="https://img.shields.io/badge/TryHackMe-Mr--Keyer-red?style=flat-square&logo=tryhackme"/></a>
+<a href="https://profile.hackthebox.com/profile/019d4329-4407-7048-8433-05de4cae7039"><img src="https://img.shields.io/badge/HackTheBox-Mr--Keyer-9fef00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
 
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Mr--Keyer-9fef00?style=flat-square&logo=hackthebox&logoColor=black)
-
-](https://profile.hackthebox.com/profile/019d4329-4407-7048-8433-05de4cae7039)
-
-<br/>
+<br/><br/>
 
 
 
